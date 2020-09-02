@@ -17,6 +17,7 @@ Before we actually take a step into the game development, here are something you
 2. Download Unity 2019.4.1f1 (make sure you have correct version number!). We will use this version of the engine to develop our games. There is no restrictions on what modules you should install.
 3. Download GitHub desktop from https://desktop.github.com/. We will mainly use GitHub as our version control system. If you do not have a GitHub account, please sign up. If you have troubles dealig with GitHub, you can always discord me anytime.
 4. The base project is here https://github.com/GuardHei/PartySampleFall2020. Make sure you have forked the project (ATTENTION: Please do FORK instead of CLONE).
+5. IDE or coding editor suggestions: I personally highly recommend Rider from JetBrains. It has many features that specifically designed for Unity development. Also, it is from the same company that makes Intellij Idea (If you have taken CS61B, you know what I'm talking about). Most importantly it is free. All you need to do is to apply for an Edu account. Other options including VS, VSCode are nice choices too.
 
 ## An Intro to Unity:
 
@@ -28,7 +29,7 @@ The **Assets** folder under the root directory is where we store assets created 
 
 ### Tests Folder
 
-There are two special folders, one is **Tests** folder. It is a folder that will never synchronize with the repository on GitHub. In another way of saying, it is completely local, so you can put all your personal testing assets here (those you don't need other people to see). For example, if you want to mess up with an existing level of the game, just copy that level and move it to the **Tests** folder. Then you can do whatever you want to that folder, without actually changing the project.
+There are two special folders, one is **Tests** folder. It is a folder that will never synchronize with the repository on GitHub. In another way of saying, it is completely local, so you can put all your personal testing assets here (those you don't need other people to see). For example, if you want to mess up with an existing level of the game, just copy that level and move it to the **Tests** folder. Then you can do whatever you want to that file, without actually changing the project.
 
 ### Submissions Folder
 
