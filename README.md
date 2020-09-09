@@ -4,7 +4,7 @@ DONT PANIC AND MAKE GAMES !!!
 
 # About the Base Project
 
-In this semester, we will be developing a 2d top-down shooter game together. This base project includes a simple template of a 2d top-down shooter game with some pre-made scripts and assets. And we will use this project as a sample to learn how to make games in Unity. At the end of the semster, we will (hopefully) have our own unique 2d top-down shooter game done.
+In this semester, we will be developing a 2d top-down shooter game together. This base project includes a simple template of a 2d top-down shooter game with some pre-made scripts and assets. And we will use this project as a sample to learn how to make games in Unity. At the end of the semester, we will (hopefully) have our own unique 2d top-down shooter game done.
 
 Here is a screenshot of the base project (don't laugh, I know I'm not good at art👻).
 ![Base Project Preview](https://i.loli.net/2020/09/02/hoeDtGZ3SIF2mEO.png)
