@@ -15,7 +15,7 @@ Before we actually take a step into the game development, here are something you
 
 1. Download and install UnityHub from https://unity3d.com/get-unity/download. Be aware that UnityHub is not the **Unity3D GameEngine**, it is a software that helps you download and organize your projects and engines of different versions.
 2. Download Unity 2019.4.1f1 (make sure you have correct version number!). We will use this version of the engine to develop our games. There is no restrictions on what modules you should install.
-3. Download GitHub desktop from https://desktop.github.com/. We will mainly use GitHub as our version control system. If you do not have a GitHub account, please sign up. If you have troubles dealig with GitHub, you can always discord me anytime.
+3. Download GitHub desktop from https://desktop.github.com/. We will mainly use GitHub as our version control system. If you do not have a GitHub account, please sign up. If you have problems with GitHub, you can always discord me anytime.
 4. The base project is here https://github.com/GuardHei/PartySampleFall2020. Make sure you have forked the project (ATTENTION: Please do FORK instead of CLONE).
 5. IDE or coding editor suggestions: I personally highly recommend Rider from JetBrains. It has many features that specifically designed for Unity development. Also, it is from the same company that makes Intellij Idea (If you have taken CS61B, you know what I'm talking about). Most importantly it is free. All you need to do is to apply for an Edu account. Other options including VS, VSCode are nice choices too.
 
