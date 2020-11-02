@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour {
 
 	[Header("Settings")]
+	public int edge = 5;
 	public float speed;
 	public KeyCode upKey = KeyCode.W;
 	public KeyCode downKey = KeyCode.S;
